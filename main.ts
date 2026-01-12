@@ -1,3 +1,3 @@
 basic.forever(function () {
-    basic.showString("alexys")
+    basic.showString("ALEXYS")
 })
